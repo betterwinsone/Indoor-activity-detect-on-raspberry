@@ -1,0 +1,2 @@
+xbs\xbs_train0.wav
+xbs\xbs_train1.wav
